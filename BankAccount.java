@@ -30,7 +30,7 @@ class BankAccount {
     }
 
     public static void main(String[] args) {
-        BankAccount ba = new BankAccount(5689788, "Dhanish kumar");
+        BankAccount ba = new BankAccount(5689788, "Braja Gopal");
         ba.display();
 
     }
